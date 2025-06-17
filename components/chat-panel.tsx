@@ -1,4 +1,5 @@
 'use client'
+// Updated: Added Learn Complex Topic button functionality
 
 import { useAuth } from '@/hooks/use-auth'
 import { Model } from '@/lib/types/models'
